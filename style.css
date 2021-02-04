@@ -1,5 +1,5 @@
-* {
-    outline: 1px solid red;
+div {
+    outline: 1px solid black;
 }
 
 .row div {
